@@ -61,11 +61,6 @@ The **To-Do List Application** is a simple and interactive web-based task manage
 
 ---
 
-## **Project Screenshot**  
-[Add project screenshot here]  
-
----
-
 ## **Future Enhancements**  
 - Task categories and deadlines  
 - Drag-and-drop task reordering  
@@ -85,9 +80,4 @@ This project is licensed under the MIT License.
 
 ## **Contact**  
 - **Author:** Atharva Kapile  
-- **GitHub:** [Your GitHub Profile Link]  
-- **Email:** [Your Email]  
-
----
-
-Let me know if you want customization or additional sections.
+- **Email:** imperiumofficialcommunity@gmail.com  
